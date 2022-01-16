@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
-title: stone-zeng.github.io
-lang: en-US  # For correct hyphenation, we need set the language to en-US.
+title: The Daimon
+lang: zh-CN  # For correct hyphenation, we need set the language to en-US.
 baseurl: ""
 url: https://thedaimon.cn
 copyright: © 2022 Liu Kang
-github_username: stone-zeng
+github_username: Liuktt
 
 incremental: true
 permalink: :year-:month-:day-:title/
@@ -30,10 +30,8 @@ markdown: kramdown
 theme: minima
 minima:
   social_links:
-    email: xdzeng96@gmail.com
-    github: stone-zeng
-    twitter: xiangdong_zeng
-    telegram: xdzeng96
+    email: liuktt@hotmail.com
+    github: Liuktt
     rss: rss
 plugins:
   - jekyll-feed
