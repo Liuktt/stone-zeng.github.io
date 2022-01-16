@@ -3,9 +3,8 @@
 title: stone-zeng.github.io
 lang: en-US  # For correct hyphenation, we need set the language to en-US.
 baseurl: ""
-url: https://stone-zeng.github.io/
-google_analytics: UA-132846370-1
-copyright: © 2018--2022 Xiangdong Zeng
+url: https://thedaimon.cn
+copyright: © 2022 Liu Kang
 github_username: stone-zeng
 
 incremental: true
@@ -41,11 +40,6 @@ plugins:
   - jekyll-paginate
 sass:
     style: compressed
-paginate: 8
+paginate: 10
 paginate_path: /page/:num
 
-gitalk:
-  clientID: f98ec5b83ae226312741
-  clientSecret: 6d2331893b424b8f5bf4e96cbaf701129a6f861b
-  repo: stone-zeng.github.io
-  owner: stone-zeng
